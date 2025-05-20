@@ -110,6 +110,6 @@ Email: zain@gmail.com password: adminpass
   
 **Support**
 For technical support or questions, please contact:
-- Email: m.ali.imran7097@gmail.com
+- Email: m.ali.imran7097@outlook.com
 Note: This is a demonstration system. In a production environment, additional security 
 measures and proper error handling should be implemented.
